@@ -9,5 +9,4 @@ public class OdakkuApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OdakkuApplication.class, args);
 	}
-
 }
